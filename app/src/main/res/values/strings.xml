@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Loan Genius</string>
+    <string name="loangenius">LOANGENIUS</string>
+    <string name="loanchoiceq">Ready to calculate? Choose your loan type.</string>
+    <string name="firstrunq">We need a time machine to set things up. What year are you from?</string>
+    <string name="firstrunmth">Month</string>
+    <string name="firstrunyear">Year</string>
+    <string name="monthhint">MM</string>
+    <string name="yearhint">YYYY</string>
+    <string name="firstrunpic">A person building a way to build up configs</string>
+    <string name="firstsubmit">Proceed</string>
+    <string name="amt">Amount</string>
+    <string name="interest">Interest</string>
+    <string name="rpmt">Repayments</string>
+    <string name="loansd">Loan Start Date</string>
+    <string name="dslt">Select Date</string>
+    <string name="rb1sel">Personal Loan</string>
+    <string name="rb2sel">Housing Loan</string>
+    <string name="calcln">Calculate</string>
+</resources>
