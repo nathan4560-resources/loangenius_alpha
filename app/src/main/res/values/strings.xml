@@ -17,4 +17,9 @@
     <string name="rb1sel">Personal Loan</string>
     <string name="rb2sel">Housing Loan</string>
     <string name="calcln">Calculate</string>
+    <string name="rv_remaining">Remaining Balance:</string>
+    <string name="rv_monthlyrepayment">Monthly Repayment:</string>
+    <string name="rv_interestpaid">Interest Paid:</string>
+    <string name="rv_principalpaid">Principal Paid:</string>
+
 </resources>
